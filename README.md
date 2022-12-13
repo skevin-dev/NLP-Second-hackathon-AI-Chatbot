@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="">
     <img src='https://ibb.co/mrnrxkT' alt="HuzaLabs logo" width = 100px>
    </a>
-</p>
+</p> -->
 <h3 align="center"><a href='https://www.huzalabs.com/'> HuzaLabs </a></h3>
 <h4 align="center">NLP Hackathon: AI Chatbot</h4>
 
